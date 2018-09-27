@@ -9,7 +9,7 @@ Installation
 -----
 
 ```
-npm install convert-units --save
+npm install marcnewton/convert-units --save-dev
 ```
 
 Usage
